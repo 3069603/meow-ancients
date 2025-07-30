@@ -1,0 +1,90 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background: #fafafa;
+  color: #222;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.banner h1 {
+  font-size: 3rem;
+  margin: 0;
+  color: #fff;
+  text-shadow: 2px 2px #00000030;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.text-block h2 {
+  color: #444;
+}
+
+.text-block p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.gallery {
+  text-align: center;
+  padding: 20px;
+}
+
+.nft-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.nft-grid img {
+  width: 250px;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+  background: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.buttons {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 15px 25px;
+  background: #ff6f61;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #e05548;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 20px;
+  background: #f0f0f0;
+  color: #666;
+}
+
+footer a {
+  color: #444;
+  text-decoration: none;
+}
