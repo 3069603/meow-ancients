@@ -25,7 +25,7 @@ Visit the live site:
 - RU/EN description sections
 - NFT preview gallery
 - Buttons for:
-  - Getgems collection: [MeowAncients](https://getgems.io/collection/MeowAncients)
+  - Getgems collection: [MeowAncients](https://getgems.io/Meow-Ancients)
   - Telegram contact: [@by3069603](https://t.me/by3069603)
 
 ---
